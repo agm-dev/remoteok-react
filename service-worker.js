@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/remoteok-react/precache-manifest.94d2171d1de50899352b8b67b2911140.js"
+  "/remoteok-react/precache-manifest.45ff0dd5c55748b51f1c6f7cbf9d37b1.js"
 );
 
 self.addEventListener('message', (event) => {

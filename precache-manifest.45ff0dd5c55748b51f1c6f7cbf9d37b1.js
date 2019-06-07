@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf8af2ef6b9c34c712c6c3e75d949204",
+    "revision": "d3a2c333a75ccd7225d98b9506bd8bee",
     "url": "/remoteok-react/index.html"
   },
   {
-    "revision": "c844ed15c65402e97b79",
+    "revision": "30aa115506afa6308d66",
     "url": "/remoteok-react/static/css/main.cfda8877.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remoteok-react/static/js/2.8ec4bcaf.chunk.js"
   },
   {
-    "revision": "c844ed15c65402e97b79",
-    "url": "/remoteok-react/static/js/main.9aac9df3.chunk.js"
+    "revision": "30aa115506afa6308d66",
+    "url": "/remoteok-react/static/js/main.ca43fd60.chunk.js"
   },
   {
     "revision": "e33d34989bc86498e4e2",

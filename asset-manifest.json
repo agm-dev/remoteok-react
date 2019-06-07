@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/remoteok-react/static/css/main.cfda8877.chunk.css",
-    "main.js": "/remoteok-react/static/js/main.9aac9df3.chunk.js",
-    "main.js.map": "/remoteok-react/static/js/main.9aac9df3.chunk.js.map",
+    "main.js": "/remoteok-react/static/js/main.ca43fd60.chunk.js",
+    "main.js.map": "/remoteok-react/static/js/main.ca43fd60.chunk.js.map",
     "runtime~main.js": "/remoteok-react/static/js/runtime~main.7805b21e.js",
     "runtime~main.js.map": "/remoteok-react/static/js/runtime~main.7805b21e.js.map",
     "static/js/2.8ec4bcaf.chunk.js": "/remoteok-react/static/js/2.8ec4bcaf.chunk.js",
     "static/js/2.8ec4bcaf.chunk.js.map": "/remoteok-react/static/js/2.8ec4bcaf.chunk.js.map",
     "index.html": "/remoteok-react/index.html",
-    "precache-manifest.94d2171d1de50899352b8b67b2911140.js": "/remoteok-react/precache-manifest.94d2171d1de50899352b8b67b2911140.js",
+    "precache-manifest.45ff0dd5c55748b51f1c6f7cbf9d37b1.js": "/remoteok-react/precache-manifest.45ff0dd5c55748b51f1c6f7cbf9d37b1.js",
     "service-worker.js": "/remoteok-react/service-worker.js",
     "static/css/main.cfda8877.chunk.css.map": "/remoteok-react/static/css/main.cfda8877.chunk.css.map"
   }
